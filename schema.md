@@ -1,6 +1,6 @@
 #Visualize your schema
 
-Open this file in your text editor and visualize your schema. At the top is your table name. Listed below are all the columns in that table. 
+Open this file in your text editor and visualize your schema. 
 
 User
 -------------------
