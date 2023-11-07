@@ -19,6 +19,14 @@ Start designing with pen & paper or a whiteboard. Then move your design online!
 
 Each schema design prompt includes some of the models you might consider including. Don't consider this list to be final or even correct. Imagine the typical use cases and ensure you have the tables to support those.
 
+## Deliverables for each schema:
+
+1. An ER Diagram (use [https://erdplus.com/](https://erdplus.com/)
+2. A data schema diagram using Quick Database Diagrams or [drawsql](https://drawsql.app)
+3. The `.sql` files that create your data schema
+4. Some fake data you've created (ChatGPT can help, as can [mockaroo](https://www.mockaroo.com/).
+5. Some SQL queries you've created & run.
+
 ## GrubHub Online Ordering
 * order
 * restaurant
